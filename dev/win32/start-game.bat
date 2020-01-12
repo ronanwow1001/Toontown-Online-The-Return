@@ -1,6 +1,6 @@
 @echo off
 
-title Toontown 2.0 Game Launcher
+title Toontown The Return Game Launcher
 
 echo Choose your connection method!
 echo.
