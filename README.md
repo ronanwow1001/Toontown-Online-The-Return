@@ -3,7 +3,7 @@ single-player remake of Disney's Toontown Online
 
 # Current Team
 
-1. Owner/Coder - Josh Zimmer 
+1. Owner/Coder - Ronanwow1001 
 
 # Thanks
 
